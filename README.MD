@@ -20,8 +20,6 @@ NB: per il valore di **TESSERA_SANITARIA** bisogna omettere il prefisso **803800
 CODICE_FISCALE=***
 TESSERA_SANITARIA=***
 NUMERO_RICETTA=***
-NUMERO_TELEFONO=***
-EMAIL=***
 ```
 
 Esegui lo script
